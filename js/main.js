@@ -70,7 +70,7 @@ const listaSatelites=[
   { nombre:'Inmarsat'},
   { nombre:'Tianlian'},
   { nombre:'Compton Gamma Ray Observatory'},
-  { nombre:'James Webb Telescope'},
+ 
 ];
 
 const raycaster = new THREE.Raycaster();
